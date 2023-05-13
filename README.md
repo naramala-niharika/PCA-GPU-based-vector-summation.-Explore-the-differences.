@@ -477,11 +477,11 @@ int main(int argc, char **argv)
 
 ```
 ## Output:
-!(Output)[<img width="421" alt="p1" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/dd00910d-2a25-4a75-ab1d-1403eaa8a97f">
-     ]
-!(Output)[<img width="422" alt="p2" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/45f82b39-be32-4cfa-a8ac-28f19d359e20">]
-!(Output)[<img width="419" alt="p3" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/3eadd0bf-36a1-4b9f-b3f6-aa27f683cd6f">
-]
+<img width="421" alt="p1" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/dd00910d-2a25-4a75-ab1d-1403eaa8a97f">
+     
+<img width="422" alt="p2" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/45f82b39-be32-4cfa-a8ac-28f19d359e20">
+<img width="419" alt="p3" src="https://github.com/naramala-niharika/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94165377/3eadd0bf-36a1-4b9f-b3f6-aa27f683cd6f">
+
 
 ## Result:
 i) Thus the program to compare the execution time and result of summing two arrays using CUDA programming by setting block.x = 1023 and block.x = 1024 has been successfully implemented and verified.
